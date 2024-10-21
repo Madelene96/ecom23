@@ -17,7 +17,7 @@ header {
     flex-direction: column;
     justify-content: center;
     background: linear-gradient(to bottom, #5e44ab36, #5e44ab88),  url(kopia.jpg);
-    min-height: 300px;
+    min-height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
